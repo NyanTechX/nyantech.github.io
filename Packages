@@ -1,0 +1,27 @@
+Package: com.nyantech.nyanx
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: NyanTech <nyantech149@gmail.com>
+Filename: /NyanX.deb
+Size: 401890
+MD5sum: c2dfd0d2c4c15392abd508602eadc36d
+SHA1: afc86a94fcdf23f4c40704d2433e51fe35f85d4e
+SHA256: 56a8e5d439982ef8dcd83e9df5bdd15994b337026afab38d8e72f6a369d8a3a9
+Section: Themes
+Description: This theme is in beta, as of now most of the icons are missing
+Author: NyanTech <nyantech149@gmail.com>
+Name: NyanX
+
+Package: com.nyantech.classicmusic
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: NyanTech <nyantech149@gmail.com>
+Filename: /ClassicMusic.deb
+Size: 13092
+MD5sum: 72677a38249ad5981e2ccf1c63028f4c
+SHA1: 5bb28951d7170a15b338e820ff88d57178a13fbb
+SHA256: ebafc10ac27d2d1fee72cb088c0e04ed027b850afd181fb55d0d6915778ef9ff
+Section: Themes
+Description: Classic music icon from ios 8
+Author: NyanTech <nyantech149@gmail.com>
+Name: ClassicMusic 
